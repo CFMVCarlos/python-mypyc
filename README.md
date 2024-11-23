@@ -1,7 +1,3 @@
-Here's an improved version of your README file. I've reorganized some sections for clarity, enhanced readability, and added additional formatting where needed:
-
----
-
 # MyPyC Compilation for Python Functions
 
 This repository demonstrates how to use `mypyc` to compile Python functions into optimized native code, significantly improving performance.
